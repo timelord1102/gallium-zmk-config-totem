@@ -1,6 +1,7 @@
 include:
-  - board: xiao_ble//zmk
+  - board: seeed_xiao_ble
     shield: totem_left
-  - board: xiao_ble//zmk
+    snippet: studio-rpc-usb-uart # Enables ZMK Studio USB communication
+  - board: seeed_xiao_ble
     shield: totem_right
 # there is no settingsreset (needed) for the XIAO
