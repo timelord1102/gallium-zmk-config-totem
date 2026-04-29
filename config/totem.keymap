@@ -80,7 +80,7 @@ label= "BASE"                              ;
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
                 &kp B       &kp L       &kp D       &kp C       &kp V           &kp J       &kp F       &kp O       &kp U       &kp COMMA
-                &mt LALT N  &mt LCTRL R  &mt LGUI T &mt LSHFT S &kp G           &kp Y       &mt RSHFT H &mt RGUI A &mt RCTRL E  &mt RALT I
+                &mt LALT N  &mt LCTRL R &mt LGUI T &mt LSHFT S &kp G           &kp Y       &mt RSHFT H &mt RGUI A &mt RCTRL E  &mt RALT I
     &kp BSLH    &kp X       &kp Q       &kp M       &kp W       &kp Z           &kp K       &kp P       &kp SQT     &kp SEMI    &kp DOT    &kp FSLH
                                         &lt NAV TAB &kp ENTER   &kp SPACE       &kp BSPC  &kp DEL   &lt SYM ESC
                         >;
@@ -105,7 +105,7 @@ label= "NAVI"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp ESC     &bt LEFT    &kp UP      &kp RIGHT   &kp LBRC        &kp RBRC    &kp KP_N7   &kp KP_N8   &kp KP_N9   &kp KP_PLUS
+                &kp ESC     &kp LEFT    &kp UP      &kp RIGHT   &kp LBRC        &kp RBRC    &kp KP_N7   &kp KP_N8   &kp KP_N9   &kp KP_PLUS
                 &kp LSHFT   &kp trans   &kp DOWN    &kp EQUAL   &kp LBKT        &kp RBKT    &kp KP_N4   &kp KP_N5   &kp KP_N6   &kp KP_MINUS
     &trans      &kp DEL     &kp PG_UP   &kp CAPS    &kp PG_DN   &kp LPAR        &kp RPAR    &kp KP_N1   &kp KP_N2   &kp KP_N3   &kp KP_MULTIPLY &trans      
                                         &trans      &trans      &trans          &mo ADJ     &kp KP_N0   &trans      
